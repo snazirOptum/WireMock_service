@@ -1,0 +1,12 @@
+{"request": {
+        "method": "GET",
+        "url": "/gel/patient?gender=male"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "patientsData.json",
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    }
+    }
